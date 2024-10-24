@@ -100,7 +100,7 @@ header {
 }
 .body {
     font-family: Arial, Helvetica, sans-serif;
-    background: rgb(14, 13, 13);
+    background: #000;
     display: flex;
     justify-content: center;
     align-items: center;
